@@ -9,7 +9,7 @@ body {
 }
 
 .card-image {
-    border-radius: 25px;
+    border-radius: 20px;
     width: 100%;
 }
 
@@ -28,7 +28,7 @@ body {
     flex-direction: column;
     padding: 15px;
     width: 280px;
-    border-radius: 25px;
+    border-radius: 20px;
     box-shadow: 10px 15px 25px #c8d2dc;
 }
 
