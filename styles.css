@@ -9,7 +9,7 @@ body {
 }
 
 .card-image {
-    border-radius: 20px;
+    border-radius: 25px;
     width: 100%;
 }
 
@@ -27,8 +27,8 @@ body {
     justify-content: center;
     flex-direction: column;
     padding: 15px;
-    width: 320px;
-    border-radius: 20px;
+    width: 300px;
+    border-radius: 25px;
     box-shadow: 10px 15px 25px #c8d2dc;
 }
 
@@ -39,15 +39,15 @@ body {
 }
 
 .card-heading, .card-description, .card-image {
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 
 .card-heading {
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 
 .card-description {
     color: #a6a6a8;
-    font-size: 1em;
+    font-size: 0.9em;
     padding: 0 20px;
 }
