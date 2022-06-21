@@ -27,7 +27,7 @@ body {
     justify-content: center;
     flex-direction: column;
     padding: 15px;
-    width: 300px;
+    width: 280px;
     border-radius: 25px;
     box-shadow: 10px 15px 25px #c8d2dc;
 }
@@ -43,11 +43,11 @@ body {
 }
 
 .card-heading {
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 .card-description {
     color: #a6a6a8;
-    font-size: 0.9em;
+    font-size: 0.8em;
     padding: 0 20px;
 }
