@@ -9,7 +9,7 @@ body {
 }
 
 .card-image {
-    border-radius: 15px;
+    border-radius: 20px;
     width: 100%;
 }
 
@@ -27,8 +27,8 @@ body {
     justify-content: center;
     flex-direction: column;
     padding: 15px;
-    width: 350px;
-    border-radius: 15px;
+    width: 320px;
+    border-radius: 20px;
     box-shadow: 10px 15px 25px #c8d2dc;
 }
 
@@ -43,11 +43,11 @@ body {
 }
 
 .card-heading {
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 
 .card-description {
-    color: #999fa9;
+    color: #a6a6a8;
     font-size: 1em;
     padding: 0 20px;
 }
